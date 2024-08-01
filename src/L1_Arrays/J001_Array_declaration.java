@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J1_Array_declaration {
+public class J001_Array_declaration {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

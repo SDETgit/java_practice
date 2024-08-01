@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J8_copy_array {
+public class J009_copy_array2 {
 	public static void main(String[] args) {
 		int a [] = {1789, 2035, 1899, 1456, 2013, 
 	            1458, 2458, 1254, 1472, 2365, 

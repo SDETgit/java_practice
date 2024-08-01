@@ -1,6 +1,6 @@
 package L1_Arrays;
 
-public class J11_min_array {
+public class J011_min_array {
 	public static void main(String[] args) {
 		int a [] = {1,2,4,55,667,875,91,-1};
 		

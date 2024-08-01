@@ -1,6 +1,6 @@
 package L1_Arrays;
 
-public class J10_max_array {
+public class J010_max_array {
 	public static void main(String[] args) {
 		int a [] = {1,2,4,55,667,875,91};
 		

@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J17_Integer_remove_duplicates {
+public class J017_Integer_remove_duplicates {
 	public static void main(String[] args) {
 		  	int [] a = {1,2,3,4,1,5,6,7,8,2};
 	       

@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J12_reverse_array_integer_values {
+public class J012_reverse_array_integer_values {
 	public static void main(String[] args) {
 		int a [] = {1,2,4,55,667,875,91,-1,-2};
 	

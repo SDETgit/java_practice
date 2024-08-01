@@ -14,7 +14,7 @@ boolean flag = false;
 		Arrays.sort(a);
 		for(int i=0;i<a.length-1;i++)
 		{
-			if(a[i]!=a[i+1]);;,
+			if(a[i]!=a[i+1]);;lsklkd
 			{
 				System.out.println(a[i]);
 				break;

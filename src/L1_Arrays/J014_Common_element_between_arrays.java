@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J14_Common_element_between_arrays {
+public class J014_Common_element_between_arrays {
 	public static void main(String[] args) {
 		 String[] a = {"bcd", "abd", "jude", "bcd", "oiu", "gzw", "oiu"};
 	

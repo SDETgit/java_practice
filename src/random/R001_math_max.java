@@ -1,4 +1,4 @@
-package Random;
+package random;
 
 public class R001_math_max {
 

@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J22_add_2_matrices {
+public class J022_add_2_matrices {
 	public static void main(String[] args) {
 		  	int [] a = {466,1,2,3,4,1,5,6,7,8,2,43};
 		  	int [] a1 = {466,1,2,3,4,1,5,6,7,8,2,43};

@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J7_removing_element_array {
+public class J007_removing_element_array {
 
 	public static void main(String[] args) {
 		

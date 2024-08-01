@@ -3,7 +3,7 @@ package L1_Arrays;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class J3_sort_arrays_string_int {
+public class J003_sort_arrays_string_int {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

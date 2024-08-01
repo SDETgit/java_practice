@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J13_duplicates_array {
+public class J013_duplicates_array {
 	public static void main(String[] args) {
 		int a [] = {1,1,2,3,4,4,5,99,77,88,77};
 		System.out.println(Arrays.toString(a));

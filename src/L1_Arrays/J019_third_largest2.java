@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J19_third_largest2 {
+public class J019_third_largest2 {
 	public static void main(String[] args) {
 		  	int [] a = {466,1,2,3,4,1,5,6,7,8,2,43};
 	       

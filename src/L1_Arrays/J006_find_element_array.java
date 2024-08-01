@@ -1,5 +1,5 @@
 package L1_Arrays;
-public class J6_find_element_array {
+public class J006_find_element_array {
 	public static boolean contains(int arr[] , int item) {
 		
 		for(int a:arr)

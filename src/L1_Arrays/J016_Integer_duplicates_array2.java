@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J16_Integer_duplicates_array2 {
+public class J016_Integer_duplicates_array2 {
 	public static void main(String[] args) {
 		  	int [] a = {1,2,3,4};
 	        int [] b = {4,5,6,7,8,9,0};

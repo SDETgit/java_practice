@@ -11,7 +11,7 @@ package L1_Arrays;
 - - - - - - - - - -                                                                                           
 - - - - - - - - - -
 */
-public class J4_printgrid {
+public class J004_printgrid {
 
 	public static void main(String[] args) {
 		System.out.println("Printing grid \n"

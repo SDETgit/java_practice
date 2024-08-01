@@ -2,7 +2,7 @@ package L1_Arrays;
 
 import java.util.Arrays;
 
-public class J9_insert_element_in_array {
+public class J009_insert_element_in_array {
 	public static void main(String[] args) {
 		 int a[] = {1789, 2035, 1899, 1456, 2013, 
                  1458, 2458, 1254, 1472, 2365, 

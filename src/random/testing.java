@@ -1,19 +1,30 @@
 package random;
 
-public class testing {
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.util.ArrayList;
+import java.util.Random;
 
-	public static void main(String[] args) {
+public class testing {
+	
+	public static void main(String[] args) throws InterruptedException, AWTException {
 		// TODO Auto-generated method stub
-		 String[] c = {"aa", "aa", "cvd", "cvd", "oiu", "gzw", "oiu"};
+		
+		    
+		    final int FIVE_SECONDS = 5000;
+		    final int MAX_Y = 400;
+		    final int MAX_X = 400;
+		    Robot robot = new Robot();
+	        Random random = new Random();
+	        while (true) {
+	            robot.mouseMove(random.nextInt(MAX_X), random.nextInt(MAX_Y));
+	            Thread.sleep(FIVE_SECONDS);
+	        }
+	    }
+		    
+		    
 		 
-		 System.out.print(c[0].equals(c[1]));
-		 String s1="javatpoint";  
-		 String s2="javatpoint";  
-		 String s3="JAVATPOINT";  
-		 String s4="python";  
-		 System.out.println(s1.equals(s2));//true because content and case is same  
-		 System.out.println(s1.equals(s3));//false because case is not same  
-		 System.out.println(s1.equals(s4));//false because content is not same  
+		
 	}
 
-}
+
